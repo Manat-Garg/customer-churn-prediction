@@ -7,9 +7,6 @@ A simple Streamlit app that predicts customer churn using Machine Learning.
 ## 🚀 Live Demo:
 [Click here to view the deployed app!](https://customer-churn-prediction-8yu2ehhgapj8ydhzvxmgbj.streamlit.app/)
 
-## 🚀 Live Demo:
-[Click here to view the deployed app!](https://customer-churn-prediction-8yu2ehhgapj8ydhzvxmgbj.streamlit.app/)
-
 ## Features:
 - Predicts customer churn based on input features like age, salary, and years with the company.
 - Built using Python, Pandas, Scikit-Learn, and Streamlit.
