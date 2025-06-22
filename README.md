@@ -1,6 +1,11 @@
 # Customer Churn Prediction App
 
+![App Screenshot](screenshot.png)
+
 A simple Streamlit app that predicts customer churn using Machine Learning.
+
+## 🚀 Live Demo:
+[Click here to view the deployed app!](https://customer-churn-prediction-8yu2ehhgapj8ydhzvxmgbj.streamlit.app/)
 
 ## 🚀 Live Demo:
 [Click here to view the deployed app!](https://customer-churn-prediction-8yu2ehhgapj8ydhzvxmgbj.streamlit.app/)
